@@ -124,8 +124,8 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
      
    ![DemonstracaoResponseImovel](/images/ImoveisImages/PutNotAdmin.png)
        
-       <br/>
-       <br/>  
+   <br/>
+   <br/>  
        
    ![DemonstracaoResponseImovel](/images/ImoveisImages/PutNotAdminError.png)
      
