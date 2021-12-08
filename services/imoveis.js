@@ -28,7 +28,7 @@ const getAllImmobiles = async () => {
 const getImmobileById = async (id) => {
     try {
       const Immobile = await sequelize.query(`SELECT * FROM Imovels WHERE id = ${id}`);
-
+      if (!Immobile) return { message: 'Imovel não encontrado' }
       return Immobile[0];
 
     } catch (e) {

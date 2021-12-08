@@ -25,7 +25,12 @@ const ValidateUser = async (request, response, next) => {
 const ValidateEqualEmail = async (request, response, next) => {
   const { email } = request.body;
   const verify = await getUserByEmail(email);
-  if (verify) return response.status(400).json({ message: 'Email ja cadastrado' });
+
+  const getEmail = verify.map(({email}) => email).toString();
+
+  if (getEmail) return response.status(400).json({ message: 'Email ja cadastrado' });
+
+  next();
 };
 
 module.exports = { ValidateUser, ValidateEqualEmail }
