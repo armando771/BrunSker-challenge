@@ -77,23 +77,44 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
 
 ![DemonstracaoError](/images/ImoveisImages/GetError.png)
 
-  -- Com o usuario authenticado ele podera fazer as seguintes interações:
+  -- Com o usuario autenticado ele podera fazer as seguintes interações:
   
-  ![DemonstracaoImoveis](/images/ImoveisImages/GetImoveis.png)
-  <br/>
-  <br/>
-  ![DemonstracaoResponseImoveis](/images/ImoveisImages/GetResponse.png)
-  <br/>
+![DemonstracaoImoveis](/images/ImoveisImages/GetImoveis.png)
+
   <br/>
   <br/>
   
-  ![DemonstracaoImovel](/images/ImoveisImages/GetIDImoveis.png)
+![DemonstracaoResponseImoveis](/images/ImoveisImages/GetResponse.png)
+
   <br/>
   <br/>
-  ![DemonstracaoResponseImovel](/images/ImoveisImages/GetIDResponse.png)
+  <br/>
+  
+![DemonstracaoImovel](/images/ImoveisImages/GetIDImoveis.png)
+
+  <br/>
+  <br/>
+  
+![DemonstracaoResponseImovel](/images/ImoveisImages/GetIDResponse.png)
+
   <br/>
   <br/>
   <br/>
 
+  -- Um usuario pode inserir novos imoveis em nossa tabela: --mas somente administradores porem alterar ou exluir imoveis:
+  
+![DemonstracaoResponseImovel](/images/ImoveisImages/PostImoveis.png)
+
+  <br/>
+  <br/>
+  
+![DemonstracaoResponseImovel](/images/ImoveisImages/PostResponse.png)
+
+  <br/>
+  <br/>
+
+  -- caso algum campo seja invalido ou esteja vazio sera retornado o seguinte erro:
+  
+  ![DemonstracaoResponseImovel](/images/ImoveisImages/PostError.png)
 
 
