@@ -122,10 +122,21 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
      
    <br/>   
      
+       ![DemonstracaoResponseImovel](/images/ImoveisImages/PutNotAdmin.png)
+       
+       <br/>
+       <br/>  
+       
+       ![DemonstracaoResponseImovel](/images/ImoveisImages/PutNotAdminError.png)
      
    <br/> 
 
--- um usuario logado como administrador possui permissão para fazer quaisquer tipo de alteraçao:
-
+  -- um usuario logado como administrador possui permissão para fazer quaisquer tipo de alteraçao:
+  
+      ![DemonstracaoResponseImovel](/images/ImoveisImages/LoginAdmin.png)
+      
+   ##
+   
+   <br/>
 
 
