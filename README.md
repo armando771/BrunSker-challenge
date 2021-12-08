@@ -46,7 +46,9 @@ Se der algo de errado ou algum campo nao for preenchido:
 
 ##
 
-\
+<br/>
+
+<br/>
 
 
 Apos o usuario ter feito o cadastro ele ira acessar o end-point POST /login
