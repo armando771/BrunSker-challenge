@@ -101,7 +101,7 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
   <br/>
   <br/>
 
-  -- Um usuario pode inserir novos imoveis em nossa tabela: --mas somente administradores porem alterar ou exluir imoveis:
+  -- Um usuario pode inserir novos imoveis em nossa tabela. Mas somente administradores porem alterar ou exluir imoveis:
   
 ![DemonstracaoResponseImovel](/images/ImoveisImages/PostImoveis.png)
 
@@ -114,5 +114,18 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
   -- caso algum campo seja invalido ou esteja vazio sera retornado o seguinte erro:
   
   ![DemonstracaoResponseImovel](/images/ImoveisImages/PostError.png)
+  
+   <br/>
+   
+  -- caso o usuario nao seja um administrador e tente executar os verbos PUT/DELETE: 
+     sera retornado o seguinte erro:
+     
+   <br/>   
+     
+     
+   <br/> 
+
+-- um usuario logado como administrador possui permissão para fazer quaisquer tipo de alteraçao:
+
 
 
