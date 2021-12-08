@@ -30,19 +30,19 @@
  
  Aqui o usuario efetua seu cadastro
  
-![DemonstraçaoCreateUser](/images/createUser.png)
+![DemonstraçaoCreateUser](/images/UserImages/UserCreate.png)
 
 ##
 
 E se tudo der certo ira voltar uma resposta semelhente a isto:
 
-![DemonstraçãoResponseUser](/images/createUserResponse.png);
+![DemonstraçãoResponseUser](/images/UserImages/UserResponse);
 
 ##
 
 Se der algo de errado ou algum campo nao for preenchido:
 
-![DemonstracaoErrorUser](/images/createUserError.png)
+![DemonstracaoErrorUser](/images/UserImages/UserError) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP)
 
 ##
 
