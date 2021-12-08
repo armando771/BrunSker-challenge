@@ -14,7 +14,7 @@ const authTokenAdmin = async (request, response, next) => {
     const user = await UserServices.getUserByEmail(email);
     const getEmail = user.map(({email}) => email).toString();
  
-    if (getEmail !== 'admin@ADM.com') return response.status(400).json({ message: 'Acesso concedido apenas por administradores' });
+    if (getEmail !== 'admin@ADM.com') return response.status(400).json({ message: 'Acesso concedido apenas para administradores' });
 
     next();
   } catch (e) {
