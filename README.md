@@ -42,7 +42,9 @@ E se tudo der certo ira voltar uma resposta semelhante a isto:
 
 Se der algo de errado ou algum campo nao for preenchido:
 
-![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
+![DemonstracaoErrorUser](/images/UserImages/UserError.png)
+<br/>
+![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
 
 ##
 
@@ -71,10 +73,17 @@ caso o usuario tente logar com email ou senha inexistentes:
 
 Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imovels.
 
--- Se o usuario tentar acessar esta rota sem ter feito login voltara algo semelhante a isto:
+  -- Se o usuario tentar acessar esta rota sem ter feito login voltara algo semelhante a isto:
 
-![Demonstracao](/images/ImoveisImages/GetError.png)
+![DemonstracaoError](/images/ImoveisImages/GetError.png)
 
-
+  -- Com o usuario authenticado ele podera fazer as seguintes interações:
+  
+  ![Demonstracao](/images/ImoveisImages/)
+  <br/>
+  ![Demonstracao](/images/ImoveisImages/)
+  <br/>
+  ![Demonstracao](/images/ImoveisImages/)
+  <br/>
 
 
