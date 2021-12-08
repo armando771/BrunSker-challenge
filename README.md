@@ -36,30 +36,30 @@
 
 E se tudo der certo ira voltar uma resposta semelhante a isto:
 
-![DemonstraçãoResponseUser](/images/UserImages/UserResponse.png);
+![DemonstraçãoResponseUser](/images/UserImages/UserResponse.png)
 
 ##
 
 Se der algo de errado ou algum campo nao for preenchido:
 
-![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png);
+![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
 
 ##
 
 \
-\
+
 
 Apos o usuario ter feito o cadastro ele ira acessar o end-point POST /login
 
-![DemonstracaoLogin](/images/LoginImages/Login.png);
+![DemonstracaoLogin](/images/LoginImages/Login.png)
 
 E se der tudo certo ira voltar uma resposta semelhante a isto: 
 
-![DemonstracaoLoginResponse](/images/LoginImages/LoginResponse.png);
+![DemonstracaoLoginResponse](/images/LoginImages/LoginResponse.png)
 
 caso o usuario tente logar com email ou senha inexistentes:
 
-![DemonstracaoLoginErro](/images/LoginImages/LoginError.png);
+![DemonstracaoLoginErro](/images/LoginImages/LoginError.png)
 
 
 
