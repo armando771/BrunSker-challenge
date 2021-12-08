@@ -64,6 +64,12 @@ caso o usuario tente logar com email ou senha inexistentes:
 ![DemonstracaoLoginErro](/images/LoginImages/LoginError.png)
 
 
+Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imovels.
+
+-- Se o usuario tentar acessar esta rota sem ter feito login voltara algo semelhante a isto:
+
+![Demonstracao](/images/ImoveisImages/GetError.png)
+
 
 
 
