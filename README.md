@@ -79,11 +79,12 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
 
   -- Com o usuario authenticado ele podera fazer as seguintes interações:
   
-  ![Demonstracao](/images/ImoveisImages/)
+  ![DemonstracaoImoveis](/images/ImoveisImages/GetImoveis.png)
   <br/>
-  ![Demonstracao](/images/ImoveisImages/)
+  ![DemonstracaoResponseImoveis](/images/ImoveisImages/GetResponse.png)
   <br/>
-  ![Demonstracao](/images/ImoveisImages/)
+  ![DemonstracaoImovel](/images/ImoveisImages/GetIDImoveis.png)
   <br/>
+  ![DemonstracaoResponseImovel](/images/ImoveisImages/GetIDImoveis.png)
 
 
