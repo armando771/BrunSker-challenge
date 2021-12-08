@@ -55,14 +55,19 @@ Apos o usuario ter feito o cadastro ele ira acessar o end-point POST /login
 
 ![DemonstracaoLogin](/images/LoginImages/Login.png)
 
+<br/>
+
 E se der tudo certo ira voltar uma resposta semelhante a isto: 
 
 ![DemonstracaoLoginResponse](/images/LoginImages/LoginResponse.png)
+
+<br/>
 
 caso o usuario tente logar com email ou senha inexistentes:
 
 ![DemonstracaoLoginErro](/images/LoginImages/LoginError.png)
 
+<br/>
 
 Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imovels.
 
