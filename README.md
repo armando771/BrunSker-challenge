@@ -81,10 +81,22 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
   
   ![DemonstracaoImoveis](/images/ImoveisImages/GetImoveis.png)
   <br/>
+  <br/>
   ![DemonstracaoResponseImoveis](/images/ImoveisImages/GetResponse.png)
   <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
   ![DemonstracaoImovel](/images/ImoveisImages/GetIDImoveis.png)
   <br/>
-  ![DemonstracaoResponseImovel](/images/ImoveisImages/GetIDImoveis.png)
+  <br/>
+  ![DemonstracaoResponseImovel](/images/ImoveisImages/GetIDResponse.png)
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 
