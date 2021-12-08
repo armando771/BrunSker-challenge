@@ -106,11 +106,9 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
 ![DemonstracaoResponseImovel](/images/ImoveisImages/PostImoveis.png)
 
   <br/>
-  <br/>
   
 ![DemonstracaoResponseImovel](/images/ImoveisImages/PostResponse.png)
 
-  <br/>
   <br/>
 
   -- caso algum campo seja invalido ou esteja vazio sera retornado o seguinte erro:
