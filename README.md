@@ -26,3 +26,4 @@
 
 <p>Se o tipo de usuario for admin ele tem acesso a alterar e deletar imoveis alem dos demais</p>
  
+![DemonstraçaoCreateUser](/images/createUser.png);
