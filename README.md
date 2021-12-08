@@ -30,7 +30,7 @@
  
  Aqui o usuario efetua seu cadastro atraves do end-point POST /users
  
-![DemonstraçaoCreateUser](/images/UserImages/UserCreate.png);
+![DemonstraçaoCreateUser](/images/UserImages/UserCreate.png)
 
 ##
 
@@ -43,6 +43,7 @@ E se tudo der certo ira voltar uma resposta semelhante a isto:
 Se der algo de errado ou algum campo nao for preenchido:
 
 ![DemonstracaoErrorUser](/images/UserImages/UserError.png)
+<br/>
 <br/>
 ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
 
