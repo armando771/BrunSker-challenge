@@ -30,7 +30,7 @@
  
  Aqui o usuario efetua seu cadastro
  
-![DemonstraçaoCreateUser](/images/createUser.png);
+<p height="150" width="200">![DemonstraçaoCreateUser](/images/createUser.png)</p>
 
 E se tudo der certo ira voltar uma resposta semelhente a isto:
 
