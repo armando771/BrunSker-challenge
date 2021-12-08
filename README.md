@@ -25,5 +25,21 @@
 <p>Dentro do token ele possui informaçoes a cerca do tipo de usuario: Se for um usuario comum ele permite adicionar novos imoveis e consultar imoveis existentes </p>
 
 <p>Se o tipo de usuario for admin ele tem acesso a alterar e deletar imoveis alem dos demais</p>
+
+##
  
+ Aqui o usuario efetua seu cadastro
 ![DemonstraçaoCreateUser](/images/createUser.png);
+
+E se tudo der certo ira voltar uma resposta semelhente a isto:
+
+![DemonstraçãoResponseUser](/images/createUserResponse.png);
+
+Se der algo de errado ou algum campo nao for preenchido:
+
+![DemonstracaoErrorUser](/images/createUserError.png)
+
+
+
+
+
