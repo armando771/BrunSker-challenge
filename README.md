@@ -2,7 +2,6 @@
 
 ## Algumas das principais Tecnologias ultilizadas durante a criaçao:
 
-
 <p>🔗 <a href="https://nodejs.org/pt-br/docs/" target="_blank">Node.js</a></p>
 <p>🔗 <a href="https://expressjs.com/pt-br/" target="_blank">Express</a></p>
 <p>🔗 <a href="https://www.npmjs.com/package/body-parser" target="_blank">Body-Parser</a></p>
