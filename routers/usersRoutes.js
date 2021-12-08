@@ -2,13 +2,13 @@ const router = require('express').Router();
 
 const UserControllers = require('../controllers/user');
 
-const { ValidateUser } = require('../middlewares/userValidations');
+const { ValidateUser, ValidateEqualEmail } = require('../middlewares/userValidations');
 
 router.get('/', UserControllers.getAllUsers);
 
 router.get('/:id', UserControllers.getUsersById);
 
-router.post('/', ValidateUser, UserControllers.createNewUser);
+router.post('/', ValidateEqualEmail, ValidateUser, UserControllers.createNewUser);
 
 // router.delete('/:id', UserControllers.deleteUserById);
 

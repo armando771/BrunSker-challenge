@@ -7,14 +7,14 @@ const authTokenAdmin = async (request, response, next) => {
   try {
     if (!token) return response.status(401).json({ message: 'token invalido' });
 
-    const decoded = verify(token, 'secret@');
+    const decoded = verify(token, 'secret');
 
     const { email } = decoded;
 
     const user = await UserServices.getUserByEmail(email);
     const getEmail = user.map(({email}) => email).toString();
  
-    if (getEmail !== 'admin@ADM.com') return response.status(400).json({ message: 'Acesso restrito a administradores' });
+    if (getEmail !== 'admin@ADM.com') return response.status(400).json({ message: 'Acesso concedido apenas por administradores' });
 
     next();
   } catch (e) {
@@ -28,7 +28,7 @@ const authToken = async (request, response, next) => {
   try {
     if (!token) return response.status(401).json({ message: 'token invalido' });
 
-    const decoded = verify(token, 'secret@');
+    const decoded = verify(token, 'secret');
 
     const { email } = decoded;
 
