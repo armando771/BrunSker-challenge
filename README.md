@@ -36,13 +36,13 @@
 
 E se tudo der certo ira voltar uma resposta semelhente a isto:
 
-![DemonstraçãoResponseUser](/images/UserImages/UserResponse);
+![DemonstraçãoResponseUser](/images/UserImages/UserResponse.png);
 
 ##
 
 Se der algo de errado ou algum campo nao for preenchido:
 
-![DemonstracaoErrorUser](/images/UserImages/UserError) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP)
+![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
 
 ##
 
