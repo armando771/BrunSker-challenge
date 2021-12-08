@@ -86,8 +86,6 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
   
   ![DemonstracaoImovel](/images/ImoveisImages/GetIDImoveis.png)
   <br/>
@@ -96,7 +94,6 @@ Apos o usuario esta logado ele podera finalmente interarir com nossa tabela Imov
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
+
 
 
