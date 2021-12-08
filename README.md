@@ -28,13 +28,13 @@
 
 ##
  
- Aqui o usuario efetua seu cadastro
+ Aqui o usuario efetua seu cadastro atraves do end-point POST /users
  
-![DemonstraçaoCreateUser](/images/UserImages/UserCreate.png)
+![DemonstraçaoCreateUser](/images/UserImages/UserCreate.png);
 
 ##
 
-E se tudo der certo ira voltar uma resposta semelhente a isto:
+E se tudo der certo ira voltar uma resposta semelhante a isto:
 
 ![DemonstraçãoResponseUser](/images/UserImages/UserResponse.png);
 
@@ -42,7 +42,26 @@ E se tudo der certo ira voltar uma resposta semelhente a isto:
 
 Se der algo de errado ou algum campo nao for preenchido:
 
-![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png)
+![DemonstracaoErrorUser](/images/UserImages/UserError.png) ![DemonstracaoErrorUser](/images/UserImages/UserErrorP.png);
 
 ##
+
+\
+\
+
+Apos o usuario ter feito o cadastro ele ira acessar o end-point POST /login
+
+![DemonstracaoLogin](/images/LoginImages/Login.png);
+
+E se der tudo certo ira voltar uma resposta semelhante a isto: 
+
+![DemonstracaoLoginResponse](/images/LoginImages/LoginResponse.png);
+
+caso o usuario tente logar com email ou senha inexistentes:
+
+![DemonstracaoLoginErro](/images/LoginImages/LoginError.png);
+
+
+
+
 
