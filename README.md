@@ -30,15 +30,21 @@
  
  Aqui o usuario efetua seu cadastro
  
-<p height="150" width="200">![DemonstraçaoCreateUser](/images/createUser.png)</p>
+![DemonstraçaoCreateUser](/images/createUser.png)
+
+##
 
 E se tudo der certo ira voltar uma resposta semelhente a isto:
 
 ![DemonstraçãoResponseUser](/images/createUserResponse.png);
 
+##
+
 Se der algo de errado ou algum campo nao for preenchido:
 
 ![DemonstracaoErrorUser](/images/createUserError.png)
+
+##
 
 
 
